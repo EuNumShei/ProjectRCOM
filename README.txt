@@ -1,3 +1,9 @@
+Project Contributors:
+  - Guilherme Teixeira
+  - Rafael Cunha
+
+Project Grade: 18.8
+
 INSTRUCTIONS FOR SERIAL PORT PROTOCOL
 =====================================
 
